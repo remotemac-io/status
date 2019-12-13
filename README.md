@@ -3,9 +3,6 @@
 This file is updated whenever we have scheduled or unscheduled maintainance that results in downtime.
 
 ## Current status
-- All systems are online
+- Systems are under maintainance between 12:30 UTC until 15:30 UTC.
 
-## Upcoming maintenance
-
-**13th of December 2019 - 12:30 UTC until 15:30 UTC**  
-During this time our website and services may be unavailable for short periods of time
+At 13:25 UTC systems were offline for about 10 minutes. We don't expect any more downtime today.
