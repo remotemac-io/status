@@ -3,4 +3,4 @@
 This file is updated whenever we have scheduled or unscheduled maintainance that results in downtime.
 
 ## Current status
-- We are currently experiencing some power issues. At this moment some of de dedicated mac mini's are unavailable.
+- We are currently experiencing some power issues. At this moment some of de dedicated mac mini's and our website are unavailable.
