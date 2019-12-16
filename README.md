@@ -3,7 +3,7 @@
 This file is updated whenever we have scheduled or unscheduled maintainance that results in downtime.
 
 ## Current status
-All systems are online
+We're currently experiencing network issues. Some machines may be affected. We'll keep you updated.
    
      
 #### 14th December 2019 09:30 UTC
